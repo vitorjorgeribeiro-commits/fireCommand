@@ -1,0 +1,2 @@
+[functions.meteorologia]
+verify_jwt = false
